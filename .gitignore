@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.ipynb
+
+# If your notebooks are in subfolders, unignore the folders too
+!*/
