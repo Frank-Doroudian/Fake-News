@@ -6,4 +6,4 @@
 !*.ipynb
 
 # If your notebooks are in subfolders, unignore the folders too
-!*/
+# !*/
